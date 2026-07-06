@@ -1,5 +1,6 @@
 <script setup lang="ts">
-console.log("test")
+const counter = 0
+console.log(counter)
 </script>
 
 <template>
