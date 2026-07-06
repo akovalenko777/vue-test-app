@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+console.log("test")
 </script>
 
 <template>
-  <HelloWorld />
+  <h1>Intro to Vue.JS</h1>
+  <p>Lorem ipsum dolor sit amet.</p>
 </template>
